@@ -1,6 +1,6 @@
 # Hi, I'm Aiden Aquino
 
-- **Computer Science student at James Madison University** (B.S. in Computer Science, Minor in Mathematics) 
+- **Computer Science student at James Madison University** (B.S. in Computer Science, Minor in Mathematics and Data Analytics) 
 - **Teaching Assistant for Intro to Programming** - Mentoring students in Python and Java
 
 ---
