@@ -21,6 +21,6 @@
 ---
 
 ## Connect
-- Email: aaquino510@gmail.com
+- Email: aquinoax@dukes.jmu.edu
 - [LinkedIn](www.linkedin.com/in/aiden-aquino-36636a2b3)
 - [Resume](https://github.com/AidenAquarium/aidenaquarium/blob/b2d72c4b0d23c22e812e0e0658208cbf1178496c/Resume%20A%20Aquino.pdf)
