@@ -39,4 +39,4 @@ Also: [Huffman file compressor](https://github.com/aiden-aquino/huffman-compress
 
 - Email: aaquino510@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/aiden-aquino/)
-- [Resume](https://github.com/aiden-aquino/aiden-aquino/blob/main/resume.pdf)
+- [Resume]([https://github.com/aiden-aquino/aiden-aquino/blob/main/resume.pdf](https://github.com/aiden-aquino/aiden-aquino/blob/main/Aiden_Aquino.pdf))
